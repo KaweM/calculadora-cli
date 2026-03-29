@@ -1,16 +1,51 @@
-# Calculadora CLI em JavaScript
+# 🧮 Calculadora CLI
 
-Calculadora de linha de comando (CLI) que realiza operações matemáticas básicas e avançadas.
+Calculadora de linha de comando desenvolvida em **Node.js** para realizar operações matemáticas básicas de forma simples e rápida.
 
-## Funcionalidades
+---
 
-- Soma, Subtração, Multiplicação, Divisão
-- Potência, Módulo, Porcentagem
-- Validação de números
-- Interatividade no terminal
+## 🚀 Funcionalidades
 
-## Como usar
+* Soma, subtração, multiplicação e divisão
+* Potência, módulo e porcentagem
+* Validação de entrada
+* Tratamento de erro (ex: divisão por zero)
 
-1. Clone o repositório:
+---
+
+## ⚙️ Como executar
+
 ```bash
-git clone https://github.com/SeuUsuario/calculadora.git
+git clone https://github.com/KaweM/calculadora-cli.git
+cd calculadora-cli
+npm start
+```
+
+---
+
+## 📁 Estrutura
+
+```
+index.js                 # Interface CLI
+operacoesMatematicas.js # Lógica das operações
+```
+
+---
+
+## 🛠️ Tecnologias
+
+* JavaScript (ES Modules)
+* Node.js
+
+---
+
+## 👨‍💻 Autor
+
+KaweM
+https://github.com/KaweM
+
+---
+
+## 📄 Licença
+
+MIT
