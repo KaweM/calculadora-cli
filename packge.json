@@ -1,0 +1,13 @@
+{
+  "name": "calculadora",
+  "version": "1.0.0",
+  "description": "Calculadora simples de linha de comando em Javascript",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["calculadora", "javascript", "cli", "node"],
+  "author": "(https://github.com/KaweM)",
+  "license": "MIT",
+  "type": "module"
+}
